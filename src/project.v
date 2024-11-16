@@ -52,7 +52,7 @@ end
 endmodule
 
 
-module tt_alu_example (
+module alu (
     input [3:0] a,            
     input [3:0] b,            
     input [2:0] alu_sel,      
